@@ -1,2 +1,3 @@
 # C-Programs
-This is my first Github Repository. It contains some programs I wrote using C Language
+This is my first Git Repository. It contains some programs I wrote using C Language.
+Author- Daksh Dixit.
